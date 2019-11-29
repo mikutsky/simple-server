@@ -1,0 +1,23 @@
+{
+  "name": "simple.server",
+  "version": "0.0.1",
+  "description": "Simple server for educational tasks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikutsky/simple-server.git"
+  },
+  "keywords": [
+    "simple",
+    "server"
+  ],
+  "author": "Dmitry Mikutsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikutsky/simple-server/issues"
+  },
+  "homepage": "https://github.com/mikutsky/simple-server#readme"
+}
